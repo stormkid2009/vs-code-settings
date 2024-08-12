@@ -1,0 +1,25 @@
+{
+    "workbench.colorTheme": "FireFly Pro",
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "editor.cursorStyle": "block",
+    "editor.fontLigatures": false,
+    "editor.fontWeight": "bold",
+    "editor.fontFamily": "'DejaVu Sans Mono', 'monospace', monospace",
+    "editor.minimap.enabled": false,
+    "tabnine.experimentalAutoImports": true,
+    "explorer.confirmDelete": false,
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "git.suggestSmartCommit": false,
+    "explorer.confirmDragAndDrop": false,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "chatgpt.lang": "en",
+    "workbench.startupEditor": "none",
+    "workbench.iconTheme": "material-icon-theme"
+}
